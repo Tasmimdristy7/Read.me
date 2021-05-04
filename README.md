@@ -1,5 +1,4 @@
-# Read.me
-Config files for my GitHub profile.
+Hello !
 - 👋 Hi, I’m @Tasmimdristy7 ,My goto languages  are python and java
 - 👀 I’m interested in artificial Intelligence ,R & D, Dev ops,
 - 🌱 I’m currently learning Aws, c++,unity
